@@ -21,6 +21,7 @@ header{
 /*-FIN DE ETIQUETAS GENERALES-*/
 
 
+/*-Inicio del Header-*/
 header nav{
     /*-Se colocan los items a la derecha-*/
     display: flex;
@@ -60,3 +61,5 @@ header .nav_right_section{
 .nav_right_section img{
     border-radius: 50%;
 }
+
+/*-Fin del Header-*/
